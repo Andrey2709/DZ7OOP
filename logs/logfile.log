@@ -1,0 +1,172 @@
+INFO  2023-09-24 10:59:52 [main] Main (Main.java:10) - Hello logger
+INFO  2023-09-24 13:28:45 [main] Main (Main.java:11) - Hello logger
+INFO  2023-09-24 13:28:45 [main] calculate.complex_utils.ComplexNumberUtil (Descriptor.java:36) - ComplexNumber{stack=[], operation='null'}
+INFO  2023-09-24 13:30:17 [main] Main (Main.java:11) - Hello logger
+INFO  2023-09-24 13:30:17 [main] calculate.complex_utils.ComplexNumberUtil (Descriptor.java:36) - ComplexNumber{stack=[], operation='null'}
+INFO  2023-09-24 13:30:33 [main] Main (Main.java:11) - Hello logger
+INFO  2023-09-24 13:30:33 [main] calculate.complex_utils.ComplexNumberUtil (Descriptor.java:26) - [23]
+INFO  2023-09-24 13:31:15 [main] Main (Main.java:11) - Hello logger
+INFO  2023-09-24 13:31:15 [main] calculate.complex_utils.ComplexNumberUtil (Descriptor.java:26) - [23]
+INFO  2023-09-24 13:31:30 [main] Main (Main.java:11) - Hello logger
+INFO  2023-09-24 13:31:30 [main] calculate.complex_utils.ComplexNumberUtil (Descriptor.java:26) - [23]
+INFO  2023-09-24 13:31:53 [main] Main (Main.java:11) - Hello logger
+INFO  2023-09-24 13:31:53 [main] calculate.complex_utils.ComplexNumberUtil (Descriptor.java:26) - [23]
+INFO  2023-09-24 13:31:53 [main] calculate.complex_utils.ComplexNumberUtil (Descriptor.java:30) - Операция -
+INFO  2023-09-24 13:31:53 [main] calculate.complex_utils.ComplexNumberUtil (Descriptor.java:26) - [23, 12]
+INFO  2023-09-24 13:31:53 [main] calculate.complex_utils.ComplexNumberUtil (Descriptor.java:35) - ComplexNumber{stack=[23, 12], operation='-'}
+INFO  2023-09-24 13:44:10 [main] Main (Main.java:11) - Hello logger
+INFO  2023-09-24 13:44:10 [main] calculate.complex_utils.ComplexNumberUtil (Descriptor.java:31) - 23
+INFO  2023-09-24 13:44:10 [main] calculate.complex_utils.ComplexNumberUtil (Descriptor.java:31) - 12
+INFO  2023-09-24 13:44:10 [main] calculate.complex_utils.ComplexNumberUtil (Descriptor.java:39) - ComplexNumber{stack=[23, 12], operation='-'}
+INFO  2023-09-27 10:30:23 [main] Main (Main.java:11) - Hello logger
+INFO  2023-09-27 10:30:23 [main] calculate.complex_utils.ComplexNumberUtil (Descriptor.java:32) - 23
+INFO  2023-09-27 10:30:23 [main] calculate.complex_utils.ComplexNumberUtil (Descriptor.java:32) - 12
+INFO  2023-09-27 10:30:23 [main] calculate.complex_utils.ComplexNumberUtil (Descriptor.java:41) - ComplexNumber{stack=[23, 12], operation='-'}
+INFO  2023-09-27 11:08:12 [main] Main (Main.java:11) - Hello logger
+INFO  2023-09-27 11:08:12 [main] calculate.complex_utils.ComplexNumberUtil (Descriptor.java:34) - 23
+INFO  2023-09-27 11:08:12 [main] calculate.complex_utils.ComplexNumberUtil (Descriptor.java:34) - 12
+INFO  2023-09-27 11:08:12 [main] calculate.complex_utils.ComplexNumberUtil (Descriptor.java:46) - ComplexNumber{imangenary=12, real=-23}
+INFO  2023-09-27 11:08:51 [main] Main (Main.java:11) - Hello logger
+INFO  2023-09-27 11:08:51 [main] calculate.complex_utils.ComplexNumberUtil (Descriptor.java:34) - 23
+INFO  2023-09-27 11:08:51 [main] calculate.complex_utils.ComplexNumberUtil (Descriptor.java:34) - 12
+INFO  2023-09-27 11:08:51 [main] calculate.complex_utils.ComplexNumberUtil (Descriptor.java:47) - ComplexNumber{imangenary=23, real=-12}
+INFO  2023-09-27 11:09:35 [main] Main (Main.java:11) - Hello logger
+INFO  2023-09-27 11:09:35 [main] calculate.complex_utils.ComplexNumberUtil (Descriptor.java:34) - 23
+INFO  2023-09-27 11:09:35 [main] calculate.complex_utils.ComplexNumberUtil (Descriptor.java:34) - 12
+INFO  2023-09-27 11:09:35 [main] calculate.complex_utils.ComplexNumberUtil (Descriptor.java:47) - ComplexNumber{imangenary=-12, real=23}
+INFO  2023-09-27 11:09:58 [main] Main (Main.java:11) - Hello logger
+INFO  2023-09-27 11:09:58 [main] calculate.complex_utils.ComplexNumberUtil (Descriptor.java:34) - 23
+INFO  2023-09-27 11:09:58 [main] calculate.complex_utils.ComplexNumberUtil (Descriptor.java:34) - 12
+INFO  2023-09-27 11:09:58 [main] calculate.complex_utils.ComplexNumberUtil (Descriptor.java:47) - ComplexNumber{imangenary=-12, real=23}
+INFO  2023-09-28 10:27:52 [main] Main (Main.java:11) - Hello logger
+INFO  2023-09-28 13:49:15 [main] Main (Main.java:13) - Hello logger
+INFO  2023-09-28 13:50:37 [main] Main (Main.java:13) - Hello logger
+INFO  2023-09-28 13:52:24 [main] Main (Main.java:13) - Hello logger
+INFO  2023-09-28 13:59:19 [main] Main (Main.java:13) - Hello logger
+INFO  2023-09-28 13:59:19 [main] calculate.api.UIStarter (UIStarter.java:21) - Start program 
+INFO  2023-09-28 14:00:31 [main] Main (Main.java:13) - Hello logger
+INFO  2023-09-28 14:00:31 [main] calculate.api.UIStarter (UIStarter.java:21) - Start program 
+INFO  2023-09-28 14:00:55 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:24) - Вызван метод reverse
+INFO  2023-09-28 14:02:03 [main] Main (Main.java:13) - Hello logger
+INFO  2023-09-28 14:02:03 [main] calculate.api.UIStarter (UIStarter.java:21) - Start program 
+INFO  2023-09-28 14:02:20 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:24) - Вызван метод reverse
+INFO  2023-09-28 14:03:24 [main] Main (Main.java:13) - Hello logger
+INFO  2023-09-28 14:03:24 [main] calculate.api.UIStarter (UIStarter.java:21) - Start program 
+INFO  2023-09-28 14:03:41 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:24) - Вызван метод reverse
+INFO  2023-09-28 14:03:41 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:35) - 12
+INFO  2023-09-28 14:03:41 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:39) - -
+INFO  2023-09-28 14:03:41 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:35) - 34
+INFO  2023-09-28 14:03:41 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:49) - ComplexNumber{imangenary=-34, real=12}
+INFO  2023-09-28 14:03:41 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:24) - Вызван метод reverse
+INFO  2023-09-28 14:03:41 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:35) - 10
+INFO  2023-09-28 14:03:41 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:39) - -
+INFO  2023-09-28 14:03:41 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:35) - 32
+INFO  2023-09-28 14:03:41 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:49) - ComplexNumber{imangenary=-32, real=10}
+INFO  2023-09-28 14:12:17 [main] Main (Main.java:13) - Hello logger
+INFO  2023-09-28 14:12:17 [main] calculate.api.UIStarter (UIStarter.java:21) - Start program 
+INFO  2023-09-28 14:12:37 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:24) - Вызван метод reverse
+INFO  2023-09-28 14:12:48 [main] Main (Main.java:13) - Hello logger
+INFO  2023-09-28 14:12:48 [main] calculate.api.UIStarter (UIStarter.java:21) - Start program 
+INFO  2023-09-28 14:13:07 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:24) - Вызван метод reverse
+INFO  2023-09-28 14:13:07 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:35) - 12
+INFO  2023-09-28 14:13:07 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:39) - -
+INFO  2023-09-28 14:13:07 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:35) - 34
+INFO  2023-09-28 14:13:07 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:49) - ComplexNumber{imangenary=-34, real=12}
+INFO  2023-09-28 14:13:07 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:24) - Вызван метод reverse
+INFO  2023-09-28 14:13:07 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:35) - 10
+INFO  2023-09-28 14:13:07 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:39) - +
+INFO  2023-09-28 14:13:07 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:35) - 30
+INFO  2023-09-28 14:13:07 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:49) - ComplexNumber{imangenary=30, real=10}
+INFO  2023-09-28 14:14:38 [main] Main (Main.java:13) - Hello logger
+INFO  2023-09-28 14:14:38 [main] calculate.api.UIStarter (UIStarter.java:21) - Start program 
+INFO  2023-09-28 14:14:53 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:24) - Вызван метод reverse
+INFO  2023-09-28 14:14:53 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:35) - 12
+INFO  2023-09-28 14:14:53 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:39) - -
+INFO  2023-09-28 14:14:53 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:35) - 30
+INFO  2023-09-28 14:14:53 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:49) - ComplexNumber{imangenary=-30, real=12}
+INFO  2023-09-28 14:14:53 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:24) - Вызван метод reverse
+INFO  2023-09-28 14:14:57 [main] Main (Main.java:13) - Hello logger
+INFO  2023-09-28 14:14:57 [main] calculate.api.UIStarter (UIStarter.java:21) - Start program 
+INFO  2023-09-28 14:15:13 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:24) - Вызван метод reverse
+INFO  2023-09-28 14:15:13 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:35) - 12
+INFO  2023-09-28 14:15:13 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:39) - +
+INFO  2023-09-28 14:15:13 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:35) - 30
+INFO  2023-09-28 14:15:13 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:49) - ComplexNumber{imangenary=30, real=12}
+INFO  2023-09-28 14:15:13 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:24) - Вызван метод reverse
+INFO  2023-09-28 14:15:13 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:35) - 10
+INFO  2023-09-28 14:15:13 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:39) - +
+INFO  2023-09-28 14:15:13 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:35) - 20
+INFO  2023-09-28 14:15:13 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:49) - ComplexNumber{imangenary=20, real=10}
+INFO  2023-09-28 14:16:05 [main] Main (Main.java:13) - Hello logger
+INFO  2023-09-28 14:16:05 [main] calculate.api.UIStarter (UIStarter.java:21) - Start program 
+INFO  2023-09-28 14:16:25 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:24) - Вызван метод reverse
+INFO  2023-09-28 14:16:35 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:35) - 12
+INFO  2023-09-28 14:16:41 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:39) - +
+INFO  2023-09-28 14:16:45 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:35) - 30
+INFO  2023-09-28 14:16:58 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:49) - ComplexNumber{imangenary=30, real=12}
+INFO  2023-09-28 14:17:02 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:24) - Вызван метод reverse
+INFO  2023-09-28 14:17:03 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:35) - 10
+INFO  2023-09-28 14:17:05 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:39) - +
+INFO  2023-09-28 14:17:07 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:35) - 20
+INFO  2023-09-28 14:17:22 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:49) - ComplexNumber{imangenary=20, real=10}
+INFO  2023-09-28 14:19:28 [main] Main (Main.java:13) - Hello logger
+INFO  2023-09-28 14:19:28 [main] calculate.api.UIStarter (UIStarter.java:21) - Start program 
+INFO  2023-09-28 14:19:45 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:24) - Вызван метод reverse
+INFO  2023-09-28 14:19:50 [main] Main (Main.java:13) - Hello logger
+INFO  2023-09-28 14:19:50 [main] calculate.api.UIStarter (UIStarter.java:21) - Start program 
+INFO  2023-09-28 14:20:23 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:24) - Вызван метод reverse
+INFO  2023-09-28 14:20:23 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:35) - 12
+INFO  2023-09-28 14:20:23 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:39) - -
+INFO  2023-09-28 14:20:23 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:35) - 30
+INFO  2023-09-28 14:20:23 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:49) - ComplexNumber{imangenary=-30, real=12}
+INFO  2023-09-28 14:20:23 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:24) - Вызван метод reverse
+INFO  2023-09-28 14:20:23 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:35) - 10
+INFO  2023-09-28 14:20:23 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:39) - +
+INFO  2023-09-28 14:20:23 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:35) - 32
+INFO  2023-09-28 14:20:23 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:49) - ComplexNumber{imangenary=32, real=10}
+INFO  2023-09-28 14:25:50 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:24) - Вызван метод reverse
+INFO  2023-09-28 14:25:50 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:35) - 10
+INFO  2023-09-28 14:25:50 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:39) - -
+INFO  2023-09-28 14:25:50 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:35) - 20
+INFO  2023-09-28 14:25:50 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:49) - ComplexNumber{imangenary=-20, real=10}
+INFO  2023-09-28 14:25:50 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:24) - Вызван метод reverse
+INFO  2023-09-28 14:25:50 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:35) - 12
+INFO  2023-09-28 14:25:50 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:39) - +
+INFO  2023-09-28 14:25:50 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:35) - 2
+INFO  2023-09-28 14:25:50 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:49) - ComplexNumber{imangenary=2, real=12}
+INFO  2023-09-28 14:27:12 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:24) - Вызван метод reverse
+INFO  2023-09-28 14:27:12 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:35) - 10
+INFO  2023-09-28 14:27:12 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:39) - +
+INFO  2023-09-28 14:27:12 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:35) - 10
+INFO  2023-09-28 14:27:12 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:49) - ComplexNumber{imangenary=10, real=10}
+INFO  2023-09-28 14:27:12 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:24) - Вызван метод reverse
+INFO  2023-09-28 14:27:12 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:35) - 10
+INFO  2023-09-28 14:27:12 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:39) - +
+INFO  2023-09-28 14:27:12 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:35) - 10
+INFO  2023-09-28 14:27:12 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:49) - ComplexNumber{imangenary=10, real=10}
+INFO  2023-09-28 14:40:50 [main] Main (Main.java:13) - Hello logger
+INFO  2023-09-28 14:40:50 [main] calculate.api.UIStarter (UIStarter.java:21) - Start program 
+INFO  2023-09-28 14:41:07 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:24) - Вызван метод reverse
+INFO  2023-09-28 14:41:07 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:35) - 10
+INFO  2023-09-28 14:41:07 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:39) - +
+INFO  2023-09-28 14:41:07 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:35) - 10
+INFO  2023-09-28 14:41:07 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:49) - ComplexNumber{imangenary=10, real=10}
+INFO  2023-09-28 14:41:07 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:24) - Вызван метод reverse
+INFO  2023-09-28 14:41:07 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:35) - 10
+INFO  2023-09-28 14:41:07 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:39) - +
+INFO  2023-09-28 14:41:07 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:35) - 10
+INFO  2023-09-28 14:41:07 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:49) - ComplexNumber{imangenary=10, real=10}
+INFO  2023-09-28 14:47:31 [main] Main (Main.java:13) - Hello logger
+INFO  2023-09-28 14:47:31 [main] calculate.api.UIStarter (UIStarter.java:21) - Start program 
+INFO  2023-09-28 14:49:23 [main] Main (Main.java:13) - Hello logger
+INFO  2023-09-28 14:49:23 [main] calculate.api.UIStarter (UIStarter.java:21) - Start program 
+INFO  2023-09-28 14:49:39 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:24) - Вызван метод reverse
+INFO  2023-09-28 14:51:33 [main] Main (Main.java:13) - Hello logger
+INFO  2023-09-28 14:51:33 [main] calculate.api.UIStarter (UIStarter.java:21) - Start program 
+INFO  2023-09-28 14:52:33 [main] Main (Main.java:13) - Hello logger
+INFO  2023-09-28 14:52:33 [main] calculate.api.UIStarter (UIStarter.java:21) - Start program 
+INFO  2023-09-28 14:52:57 [main] calculate.complex_utils.ComplexNumberHandler (ComplexNumberHandler.java:20) - Началось вычисление...
+INFO  2023-09-28 14:52:57 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:24) - Вызван метод reverse
+INFO  2023-09-28 14:52:57 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:24) - Вызван метод reverse
+INFO  2023-09-28 14:52:57 [main] calculate.complex_utils.ComplexNumberUtil (ComplexNumberUtil.java:52) - Вызван метод back
+INFO  2023-09-28 14:52:57 [main] calculate.complex_utils.ComplexNumberHandler (ComplexNumberHandler.java:25) - Вычисление завершено. Результат: 25 + 38i
